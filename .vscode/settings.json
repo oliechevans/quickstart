@@ -7,5 +7,6 @@
         "**/.DS_Store": true,
         "**/*.map":true
     },
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "typescript.check.workspaceVersion": false
 }
